@@ -30,3 +30,5 @@ https://www.theodinproject.com/lessons/node-path-javascript-linting
 https://stackoverflow.com/questions/52586965/why-does-prettier-not-format-code-in-vs-code
 
 Change shortcat from ctrl+shift+i to ctrl+shift
+
+Installing PostgreSQL: https://www.theodinproject.com/lessons/nodejs-installing-postgresql
