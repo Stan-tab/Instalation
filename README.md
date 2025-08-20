@@ -32,3 +32,6 @@ https://stackoverflow.com/questions/52586965/why-does-prettier-not-format-code-i
 Change shortcat from ctrl+shift+i to ctrl+shift
 
 Installing PostgreSQL: https://www.theodinproject.com/lessons/nodejs-installing-postgresql
+
+###Setting.json
+Use it if u like my format settings
