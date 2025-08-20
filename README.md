@@ -33,5 +33,5 @@ Change shortcat from ctrl+shift+i to ctrl+shift
 
 Installing PostgreSQL: https://www.theodinproject.com/lessons/nodejs-installing-postgresql
 
-###Setting.json
+### Setting.json
 Use it if u like my format settings
