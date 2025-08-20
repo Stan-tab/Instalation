@@ -1,0 +1,22 @@
+{
+	"files.autoSave": "afterDelay",
+	"prettier.tabWidth": 2,
+	"prettier.useTabs": true,
+	"workbench.editor.empty.hint": "hidden",
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"[css]": {
+		"editor.suggest.insertMode": "replace"
+	},
+	"[javascript]": {
+		"prettier.tabWidth": 4
+	},
+	"debug.javascript.autoAttachFilter": "onlyWithFlag",
+	"[html]": {
+		"editor.defaultFormatter": "vscode.html-language-features",
+		"editor.suggest.insertMode": "replace"
+	},
+	"files.associations": {
+		"*.ejs": "html"
+	},
+	"html.format.extraLiners": ""
+}
